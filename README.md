@@ -24,6 +24,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+
+---
+
+🌌 My Philosophy
+Balance is not something you find. It's something you create.
+
 ---
 
 ### 🌐 Connect With Me
